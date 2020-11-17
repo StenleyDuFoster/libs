@@ -15,7 +15,7 @@
  
  раскрывающийся recycler https://github.com/saket/InboxRecyclerView
  
- кнопка назад как на новіх андроидах https://github.com/ChenTianSaber/SlideBack
+ кнопка назад как на новых андроидах https://github.com/ChenTianSaber/SlideBack
  
  свай с действие как у телеги https://github.com/TradeMe/Covert
 
