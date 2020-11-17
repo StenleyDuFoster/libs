@@ -111,6 +111,12 @@ swipe button https://github.com/stfalcon-studio/swipeable-button
 
 прикольная либа для выбор отрезка(view) https://github.com/Chrisvin/RubberPicker
 
+крутая анимация удаления https://github.com/ldoublem/PaperShredder
+
+удобная либа для разворота изображения как у ios https://github.com/shchurov/HorizontalWheelView
+
+мощная либа для работы с графиками https://github.com/blackfizz/EazeGraph
+
 
 
 
