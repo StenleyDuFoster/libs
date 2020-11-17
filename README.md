@@ -83,6 +83,27 @@
  
  прикольная люба для просмотра зависимостей в даггер https://github.com/dvdciri/daggraph
  
+ либа для работы с чатом https://github.com/stfalcon-studio/ChatKit
  
+ вьювер для картинок https://github.com/stfalcon-studio/FrescoImageViewer
+
+либа для загрузки фото видео и остального с устройства https://github.com/stfalcon-studio/ContentManager
+
+swipe button https://github.com/stfalcon-studio/swipeable-button
+
+паралакс https://github.com/xgc1986/ParallaxPagerTransformer
+
+крутой лоудер https://github.com/Rogero0o/CatLoadingView
+
+мощная либа для просмотра изображений https://github.com/davemorrissey/subsampling-scale-image-view
+
+навороченный имейдж слайдер https://github.com/daimajia/AndroidImageSlider
+
+либа с большим контролем загрузки изображения https://github.com/nostra13/Android-Universal-Image-Loader
+
+крутой аниматор цифр https://github.com/robinhood/ticker
+
+
+
 
 
