@@ -93,6 +93,8 @@ swipe button https://github.com/stfalcon-studio/swipeable-button
 
 паралакс https://github.com/xgc1986/ParallaxPagerTransformer
 
+паралакс с поддержкой viewPager2 https://github.com/kibotu/ParallaxScrollingView
+
 крутой лоудер https://github.com/Rogero0o/CatLoadingView
 
 мощная либа для просмотра изображений https://github.com/davemorrissey/subsampling-scale-image-view
@@ -102,6 +104,12 @@ swipe button https://github.com/stfalcon-studio/swipeable-button
 либа с большим контролем загрузки изображения https://github.com/nostra13/Android-Universal-Image-Loader
 
 крутой аниматор цифр https://github.com/robinhood/ticker
+
+простая либы с опросами https://github.com/quickbirdstudios/SurveyKit
+
+либо со свайп эфектами как у снапчат https://github.com/sivze/SnapUI
+
+прикольная либа для выбор отрезка(view) https://github.com/Chrisvin/RubberPicker
 
 
 
