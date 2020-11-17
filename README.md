@@ -117,7 +117,51 @@ swipe button https://github.com/stfalcon-studio/swipeable-button
 
 мощная либа для работы с графиками https://github.com/blackfizz/EazeGraph
 
+тени для любой view https://github.com/harjot-oberai/Long-Shadows
 
+отрисовка textView https://github.com/totond/TextPathView
+
+очень крутая работа с картинками и имплементация их в вью https://github.com/florent37/ShapeOfView
+
+простой боттом диалог https://github.com/Commit451/ModalBottomSheetDialogFragment
+
+не плохой єдитор картинок, можно порисовать https://github.com/burhanrashid52/PhotoEditor
+
+либа для анимаций https://github.com/florent37/KotlinPleaseAnimate
+
+тени для картинок https://github.com/qhutch/ElevationImageView
+
+флоат баттон для флоат баттон https://github.com/leinardi/FloatingActionButtonSpeedDial
+
+трансформация картинок https://github.com/alexstyl/RadiusTransition
+
+визуализация зависимостей градл https://github.com/vanniktech/gradle-dependency-graph-generator-plugin
+
+работа с пермишеннами https://github.com/florent37/RuntimePermission
+
+можно подписатся на шаред преф https://github.com/StylingAndroid/Prefekt
+
+визуализация музіки https://github.com/nekocode/MusicVisualization
+
+хороший плеер ютуб https://github.com/flipkart-incubator/android-inline-youtube-view
+
+иконки дебага как у флаттера https://github.com/akaita/easylauncher-gradle-plugin
+
+нестед скролл с коллапсинг баром https://github.com/SIMMORSAL/ConcealerNestedScrollView-ConcealerRecyclerView
+
+пример реализации крутых переходов https://github.com/andremion/Theatre
+
+интирестная реализация боттом нав с большим колличеством вкладок
+
+забавная навигация туллбара https://github.com/datalink747/NiceNavigation
+
+удобная работа с коллапсинг туллбар https://github.com/githubwing/ByeBurger
+
+не плохая анимация карточек https://github.com/BakerJQ/Android-InfiniteCards
+
+интирестная реализация слайдбара https://github.com/andremion/Floating-Navigation-View
+
+боттом нав с сменой цвета https://github.com/jimmy-robert/BottomNavigationCircularColorReveal
 
 
 
