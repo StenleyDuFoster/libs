@@ -36,3 +36,53 @@
  обвёртка для bottom nav https://github.com/florent37/EnhancedNavigationView
  
  удабная либа для property анимаций https://github.com/noties/Tumbleweed
+ 
+ удобная работа со стандартными view https://github.com/Kotlin/anko
+
+ удобная работа с темами https://github.com/Daio-io/dresscode
+ 
+ удобная работа со сканером отпечатка https://github.com/infinum/Android-Goldfinger
+ 
+ либа для апдейта проекта https://github.com/infinum/Android-Prince-of-Versions
+ 
+ обнаружение утечек памяти https://github.com/square/leakcanary
+ 
+ wifi adb https://github.com/pedrovgs/AndroidWiFiADB
+ 
+ оптимизация картинок https://github.com/fabiomsr/drawable-optimizer
+ 
+ просмотр структуры разметки https://github.com/JakeWharton/scalpel
+ 
+ тест производительности https://github.com/markzhai/AndroidPerformanceMonitor
+ 
+ неплохой конвертор гсон http://www.jsonschema2pojo.org/
+ 
+ подсказки комбинация клавиш https://plugins.jetbrains.com/plugin/4455-key-promoter
+ 
+ либа для анимации трансформирования по типу коллапсинг https://github.com/dev-labs-bg/transitioner
+ 
+ анимирование фрагментов как буд то она фрагменты https://github.com/JingYeoh/FragmentRigger
+ 
+ удобный загрузчик файлов https://github.com/MindorksOpenSource/PRDownloader
+ 
+ крутая работа с диаграмами https://github.com/razerdp/AnimatedPieView
+ 
+ флоат баттон какой можно пересещать https://github.com/yhaolpz/FloatWindow
+
+ удобная либа для работы с канвасом https://github.com/florent37/MyLittleCanvas
+
+ имейдж вьевер в recycler https://github.com/Bleoo/WindowImageView
+ 
+ отрисовка графиков https://github.com/romandanylyk/ChartView
+ 
+ можно вывести лог в вью https://github.com/hypertrack/hyperlog-android
+ 
+ выпадающий список https://github.com/florent37/ExpansionPanel
+ 
+ прикольный page indicator для viewpager https://github.com/wching/Android-Indefinite-Pager-Indicator
+ 
+ прикольная люба для просмотра зависимостей в даггер https://github.com/dvdciri/daggraph
+ 
+ 
+
+
