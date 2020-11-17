@@ -141,6 +141,8 @@ swipe button https://github.com/stfalcon-studio/swipeable-button
 
 можно подписатся на шаред преф https://github.com/StylingAndroid/Prefekt
 
+либа для реактиного использования шаред преф https://github.com/f2prateek/rx-preferences
+
 визуализация музіки https://github.com/nekocode/MusicVisualization
 
 хороший плеер ютуб https://github.com/flipkart-incubator/android-inline-youtube-view
@@ -162,6 +164,12 @@ swipe button https://github.com/stfalcon-studio/swipeable-button
 интирестная реализация слайдбара https://github.com/andremion/Floating-Navigation-View
 
 боттом нав с сменой цвета https://github.com/jimmy-robert/BottomNavigationCircularColorReveal
+
+смена параметров текста https://github.com/AndroidDeveloperLB/AutoFitTextView
+
+реактивная локация https://github.com/mcharmas/Android-ReactiveLocation
+
+
 
 
 
