@@ -171,7 +171,28 @@ swipe button https://github.com/stfalcon-studio/swipeable-button
 
 кропер с инсты https://github.com/JessYanCoding/InsGallery
 
+мощная либа для поиска https://github.com/iammert/MultiSearchView
 
+красивая боттом навигация https://github.com/gauravk95/bubble-navigation, https://github.com/ibrahimsn98/SmoothBottomBar
 
+всплывающие окна с подсказками https://medium.com/better-programming/30-best-android-libraries-and-projects-of-2019-a1e35124f110
 
+очень крутые свайпы для вью пейдер https://github.com/Chrisvin/LiquidSwipe
 
+ещё один кропер https://github.com/lyrebirdstudio/Croppy
+
+фаст скролл, как у всех нативных апок https://github.com/zhanghai/AndroidFastScroll
+
+прикольный переключатель https://github.com/bitvale/Switcher
+
+красивая либа для заполнения не загруженного контента https://github.com/samlss/Broccoli
+
+кнопка с загрузкой https://github.com/razir/ProgressButton
+
+toolbar как у гугл хром https://github.com/hcbpassos/waterfall-toolbar
+
+красивый скролл индикотор https://github.com/skydoves/IndicatorScrollView
+
+простой движок для тем https://github.com/jaredrummler/Cyanea
+
+ещё одна либа для диалогов https://github.com/PatilShreyas/MaterialDialog-Android
