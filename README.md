@@ -169,6 +169,8 @@ swipe button https://github.com/stfalcon-studio/swipeable-button
 
 реактивная локация https://github.com/mcharmas/Android-ReactiveLocation
 
+кропер с инсты https://github.com/JessYanCoding/InsGallery
+
 
 
 
